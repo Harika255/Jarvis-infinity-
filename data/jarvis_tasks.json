@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "finish my Microsoft presentation",
+    "priority": "MEDIUM",
+    "deadline": null,
+    "category": "GENERAL",
+    "status": "PENDING",
+    "created_at": "2026-09-09T20:11:29"
+  }
+]

@@ -1,0 +1,7 @@
+PySide6
+SpeechRecognition
+PyAudio
+pyttsx3
+scikit-learn
+openai>=1.0.0
+comtypes

@@ -1,0 +1,53 @@
+command,intent
+hello,GREETING
+hi jarvis,GREETING
+hey jarvis,GREETING
+good morning,GREETING
+good evening,GREETING
+hello jarvis,GREETING
+how are you,GREETING
+nice to meet you,GREETING
+
+prepare my project review,PROJECT_REVIEW
+help me prepare for project review,PROJECT_REVIEW
+I have a project review tomorrow,PROJECT_REVIEW
+prepare for tomorrow's project presentation,PROJECT_REVIEW
+check my project,PROJECT_REVIEW
+I need help with my project,PROJECT_REVIEW
+help me with project presentation,PROJECT_REVIEW
+I have a project presentation,PROJECT_REVIEW
+
+create a plan,CREATE_PLAN
+make a plan,CREATE_PLAN
+generate a plan,CREATE_PLAN
+give me a preparation plan,CREATE_PLAN
+make a checklist,CREATE_PLAN
+create a checklist,CREATE_PLAN
+plan my work,CREATE_PLAN
+help me plan this task,CREATE_PLAN
+
+open my project,OPEN_APPLICATION
+open vscode,OPEN_APPLICATION
+open visual studio code,OPEN_APPLICATION
+open my workspace,OPEN_APPLICATION
+launch my project,OPEN_APPLICATION
+open notepad,OPEN_APPLICATION
+open calculator,OPEN_APPLICATION
+
+show my tasks,TASK_STATUS
+check my tasks,TASK_STATUS
+what are my tasks,TASK_STATUS
+show incomplete tasks,TASK_STATUS
+what is pending,TASK_STATUS
+check my progress,TASK_STATUS
+show pending work,TASK_STATUS
+what tasks are incomplete,TASK_STATUS
+
+what is python,GENERAL_QUESTION
+what is java,GENERAL_QUESTION
+explain machine learning,GENERAL_QUESTION
+what is artificial intelligence,GENERAL_QUESTION
+what is nlp,GENERAL_QUESTION
+explain programming,GENERAL_QUESTION
+what is deep learning,GENERAL_QUESTION
+explain computer science,GENERAL_QUESTION
