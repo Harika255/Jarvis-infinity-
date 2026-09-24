@@ -1,7 +1,6 @@
-PySide6
-SpeechRecognition
-PyAudio
-pyttsx3
+streamlit
 scikit-learn
 openai>=1.0.0
-comtypes
+pandas
+numpy
+

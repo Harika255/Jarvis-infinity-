@@ -22,3 +22,6 @@ ui/dashboard_backup_before_verification.py
 ui/dashboard_before_coding.py
 "ui/notepad test_audio.py"
 ui/notepad test_audio.py
+jarvis_memory.db 
+jarvis_reminders.db 
+jarvis_users.db 
